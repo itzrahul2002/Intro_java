@@ -1,0 +1,2 @@
+public class Pradctice20 {
+}
